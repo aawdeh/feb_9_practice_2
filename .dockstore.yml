@@ -1,0 +1,5 @@
+version: 1.2
+workflows:
+  - name: WDL-PRACTICE
+    subclass: WDL
+    primaryDescriptorPath: /hello-input-20230208.wdl
